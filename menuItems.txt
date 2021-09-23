@@ -1,0 +1,35 @@
+name:Lemon Tart
+description:Classic citrus tart with a tangy lemony custard.
+allergens:wheat/gluten
+price:7
+type:dessert
+img:lemonTart.jpg
+*****
+name:Strawberry Tart
+description:Fresh strawberries from our garden on a classic crust. 
+allergens:wheat/gluten
+price:8
+type:dessert
+img:strawberrytart.jpg
+*****
+name:Chocolate Fondant
+description:Melting chocolate cake topped with creme fraiche, a delight for all the chocolate lovers.
+allergens:wheat/gluten, dairy
+price:8
+type:dessert
+img:chocolateFondant.jpg
+*****
+name:Coffee Eclair
+description:The delicacy of an aerial choux pastry, with a creamy coffee filling.
+allergens:wheat/gluten, dairy
+price:5
+type:dessert
+img:coffeeEclair.jpg
+*****
+name:Raspberry Mousse
+description:Fluffy mousse made with fresh raspberries from our garden. 
+allergens:dairy
+price:6
+type:dessert
+img:raspberryMousse.jpg
+*****
